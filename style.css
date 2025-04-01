@@ -1,0 +1,63 @@
+.body_background{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h2{
+	color:white;
+	width:800px;
+    border-radius: 20px;
+	padding: 5px;
+}
+
+#info{
+    width: 600px;
+    background: rgb(238, 144, 155);
+    border-radius: 10px;
+    margin-bottom:5px;
+}
+span{
+    font-size: 22px;
+    color: white;
+}
+h3{
+    display:inline-block;
+}
+#my_canvas{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+}
+
+.images{
+    
+  
+ 
+
+}
+.imagecontainer{
+    background-color: rgba(255, 192, 203, 0.721);
+    display:flex;
+    gap:40px;
+    padding-left: 100px;
+}
+
+.gorrilla_glue{
+    background-color: rgb(255, 158, 190);
+    padding: 6px;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    border-color:white;
+    border-style:solid;
+    box-shadow: 7px,5px,5px white;
+  
+    
+}
+.gorrilla_glue:hover{
+    box-shadow: 7px 5px 5px rgb(255, 158, 190);
+    padding: 10px;
+    color: rgb(255, 158, 190);
+    background-color: white;
+    border-color: rgb(255, 158, 190);
+    
+}
